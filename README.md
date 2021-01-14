@@ -1,2 +1,2 @@
 # IntermediatePython
-Repository for my intermediate python class at mohawk college 2021
+Repository for my intermediate python class at mohawk college  Jan-April 2021
